@@ -1,0 +1,9 @@
+asus zenfone 3, android 8.0
+- commenting - major delay while typing
+- 'return up' button - comment textbox overlaps with it and in result its ineffective
+- clear button - works only when keyboard is hidden
+- <br> in commentbox - visible only during creation/editing; no actual representation within the posted comment
+- scroll indicator - not visible, user is unaware of position in the context of whole 'info/posts wall'
+- return to previous page after profile lookup - mostly random position is set, below the previous one
+- sending msg - ??? popup does not disappear, counter is not updated
+
