@@ -1,0 +1,29 @@
+nie testowalem: 
+- sharowanie - tylko kopie linku, jest OK;
+- darmowy pakiet
+
+- asus zenfone 3 (android 8.0>na rynku andro 9.0, 10 jeszcze prawie nigdzie, a przewaznie pewnie 6/7; model rynkowo beznadziejny, ale nawet bogaci ludzie z takich korzystaja, bo maja 'negatywne rozeznanie' w technologiach)
+
+- darmowa opcja - 14 dni to za malo; 28 i wyrazna adnotacja, ze 'przed Toba 4 tygodnie na decyzje czy takie medium jest dla Ciebie' czy cokolwiek; +powinno być możliwe pobranie np. 5 audycji lub audycji poniżej np. 30 min; obecnie każdy klik to bait i prośba 'daj pieniadze'; koszt prawie zaden, ale to odrzuca 'potencjalnych sluchaczy';
+- crash - potencjalny, jakies 3/7; wygaszenie ekranu przy otwartej apce - resetuje sie polozenie i czas w audycji i trzeba wyklikiwac znowu co gdzie jak - mozna sie zdenerwowac jak sie placi za to; jak apka leci w tle to juz na spokojnie mozna wygasic ekran i nie mialem crasha
+- popularne - brak (prawdopodobnie) oznaczenia, że user już tego słuchał w jakimś stopniu;
+- brak zapisu polozenia w audycji - smutny reset + szukaj dalej idioto gdzie skoczyles;
+- radio - nieznane, twarde lagi - brak dzwieku przez 5-10 sekund na wifi; +szybkie przewijanie audycji poprzednich/nastepnych tez to powoduje => zaden blad, raczej do rozwazenia kiedys;
+- radio - po dlugiej nieaktywnosci nie moglem wlaczyc radia - popup 'podcast nie moze byvc odtworzony' x3 taka sytuacja; po pewnym czasie samoistny unblock;
+- glosnosc reklamy - dla premium powinny byc ciszej w settingsach; zawsze reklama jest tak samo glosna lub glosniejsza - standard mediow telewizyjnych;
+- znalezieni prowadzący i goście - pokazuje te sama osobe, wiec myslalem ze ta osoba moze miec dwie role, ale nie: te same wyniki, wiec po co dwa razy to samo?;
+- pobieranie - w ogole nie wiadomo co jest pobierane i jaki jest proces - 16 minutowy podcast, nidy sie nie pobral i zero info; pobralo mi sie 'kiedys', zero powiadomienia, tylko przez przypadek zauwazylem...
+- playlista - wiadomo o co chodzi w ikonie, ale na poczatku tylko + z - sie zmienia i brak info, niezrozumiale;
+- przewijanie - w trakcie audycji => backward/forward dziala ale nie ma szybkiego przejscia do 'teraz'; najprosciej i bez buttonow - albo w stringa podczepic przejscie 'wczesniej/teraznaantenie/pozniej' albo w button on/off radia;
+- button 'obserwuj' - specyficzne dzialanie, po od-obserwowaniu czasem zmienia sie samoczynnie na przeciwna opcje;
+- data (niebieskie tlo, dock gorny) - podczepilbym rozwiniecie pola daty pod string daty ('APRIL, 2020') - rozsuniecie waskiego paska tygodnia nie jest intuicyjne; nie widzialem takiego rozsuwania, brawa dla pomyslodawcy (!);
+- 'Polecamy' - kafle powinny sie przewijac -1/+1 kafel a nie jak luzny suwak;
+- 'Polecamy' - chce odsluchac, przechodze do audycji i nie wiem kiedy zostala nagrana; wchodze w button 'i' o ile w ogole pomysle, ze tak to sie robi i mam date na samym spodzie - dodalbym prosty nawias (x dni temu) w skali dni do tygodnia (1,2,3), 'ponad miesiac' do miesiaca i 1 tygodnia i koniec, znowu sama data;
+- 'Polecamy' - skonczyla sie audycja z dzisiaj i leci z wczoraj - dlaczego? jaka tu jest logika?;
+- mam audycje, chce pozniej odsluchac i dodaje do playlisty - wchodze by sprawdzic dodanie i zaznaczam, ze jest nieodsluchana (nadal leci) i wtedy 'mniej wiecej' znika z listy - cornercase, raczej do zapomnienia;
+- home, dock gorny z obecna audycja - chce miec na glownym ekranie detale - tylko click w pasek audycji przenosi do radia, mozna kliknac 'NA ZYWO' => przeniesienie i 2 sekundy przerwy i kontynuacja - troche madre, troche nie; lepsze rozwiazanie?
+
+- czyszczenie procesow nie zabija apki - kapitalne, nie wszedzie;
+- darmowy pakiet - nie ma timingu przy zamykaniu reklamy - kapitalnie, ale pewnie sporo drozej; button moglby byc wiekszy, bo jak sie otworzy przegladarka to rosnie agresja + wskakuje pewnie sugestia do trwałych reklam; pewnie nie ma opcji responsywnej reklamy pod klienta (nie widzialem tego nigdy) i mam na mysli @tokfm jako klienta, nie siebie;
+- ui - fajny design, nie atakuje oczu, schludnie;
+- nadchodzace audycje - brak mozliwosci odtworzenia; beznadziejne.
